@@ -2,7 +2,7 @@
 In the project, cinema reception application was made. It was created using HTML, CSS and JavaScript. You can make film and seat selections and see the price you need to pay.
 
 
-<h1>used tecnologies</h1>
+<h1>used technologies</h1>
 HTML
 CSS
 JavaScript
